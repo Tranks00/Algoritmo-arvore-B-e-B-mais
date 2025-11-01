@@ -12,7 +12,7 @@ O programa permite que o usuário insira e remova chaves (letras do alfabeto) e 
 * **Controle de Visualização:**
     * **Zoom In / Zoom Out** para inspecionar árvores grandes.
     * **Canvas Rolável** (barras de rolagem) para navegar por árvores que excedem o tamanho da tela.
-* **Histórico de Operações:** Um log que registra todas as ações realizadas (inserções, exclusões, erros).
+* **Histórico de Operações:** Um log que registra todas as ações realizadas (inserções, exclusões).
 * **Chaves Alfabéticas:** O simulador aceita letras (A-Z) como chaves, tratando-as de forma *case-insensitive* (sempre convertidas para maiúsculas).
 
 ---
