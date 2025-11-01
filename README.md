@@ -1,4 +1,3 @@
-
 # Simulador Visual de Árvore B e Árvore B+
 
 Este projeto é um simulador gráfico e interativo desenvolvido em Python para fins acadêmicos, focado em demonstrar o funcionamento das estruturas de dados **Árvore B** e **Árvore B+**.
