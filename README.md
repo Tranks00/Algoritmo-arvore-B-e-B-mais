@@ -1,11 +1,11 @@
 # Algoritmo-arvore-B-e-B-mais
-# 🌳 Simulador Visual de Árvore B e Árvore B+
+# Simulador Visual de Árvore B e Árvore B+
 
 Este projeto é um simulador gráfico e interativo desenvolvido em Python para fins acadêmicos, focado em demonstrar o funcionamento das estruturas de dados **Árvore B** e **Árvore B+**.
 
-O programa permite que o usuário insira e remova chaves (letras do alfabeto) e visualize em tempo real como a árvore se auto-balanceia através de operações de *split*, *merge* (fusão) e *borrow* (empréstimo/distribuição).
+O programa permite que o usuário insira e remova chaves (letras do alfabeto) e visualize em tempo real como a árvore se auto-balanceia através de operações de split, merge (fusão) e borrow (empréstimo/distribuição).
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 * **Visualização Gráfica:** Renderização da árvore em um canvas, mostrando a hierarquia de nós e chaves.
 * **Operações Completas:** Implementação de **Inserção** e **Remoção** com toda a lógica de rebalanceamento (divisão, fusão e distribuição).
@@ -18,7 +18,7 @@ O programa permite que o usuário insira e remova chaves (letras do alfabeto) e 
 
 ---
 
-## 🌲 Estruturas Implementadas
+## Estruturas Implementadas
 
 O projeto contém duas implementações separadas:
 
@@ -38,14 +38,14 @@ O projeto contém duas implementações separadas:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Python 3.x**
 * **Tkinter** (módulos `tk` e `ttk`) para a construção da interface gráfica.
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 Não são necessárias bibliotecas externas além das que vêm nativamente com o Python.
 
